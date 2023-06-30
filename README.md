@@ -73,7 +73,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a hreft="t.me/Leecow06">
   <img align="left" alt="Telegram" width="130" higth="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram%403x.png" />
 <a hreft="https://www.instagram.com/minhson06/">
-  <img align="left" alt="Instagram" width="130" higth="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram%403x.png" />  
+  <img align="center" alt="Instagram" width="130" higth="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram%403x.png" />  
 </br>
 </br>
 </br>
