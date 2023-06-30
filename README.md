@@ -39,8 +39,8 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/leminhson06/leminhson06/blob/main/csharp.png" alt="c#" width="86" hight="43">
-<img src="https://github.com/leminhson06/leminhson06/blob/main/swift.png" alt="swift" width="110" hight="60">
+<img src="https://github.com/leminhson06/leminhson06/blob/main/csharp.png" alt="c#" width="86" hight="40">
+<img src="https://github.com/leminhson06/leminhson06/blob/main/swift.png" alt="swift" width="110" hight="65">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
