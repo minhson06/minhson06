@@ -39,8 +39,8 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="datascience" width="180" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/swift.png" alt="swift" width="180" hight="50">
+<img src="https://github.com/leminhson06/leminhson06/blob/main/csharp.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/leminhson06/leminhson06/blob/main/swift.png" alt="swift" width="180" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
@@ -60,7 +60,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/leminhson06/leminhson06/blob/main/dr-stone-smiling.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -69,11 +69,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/minhson06/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 <a hreft="t.me/Leecow06">
-  <img align="left" alt="Telegram" width="150" higth="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram%403x.png" />
+  <img align="left" alt="Telegram" width="130" higth="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram%403x.png" />
 <a hreft="https://www.instagram.com/minhson06/">
-  <img align="left" alt="Instagram" width="150" higth="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram%403x.png" />  
+  <img align="left" alt="Instagram" width="130" higth="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram%403x.png" />  
 </br>
 </br>
 </br>
