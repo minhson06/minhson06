@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 17 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 17 years old Machine Learning & Artificial Intelligence Enthusiast from Viet Nam.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/leminhson06/leminhson06/blob/main/anime-dr-stone%20(1).gif">
 
